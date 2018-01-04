@@ -12,7 +12,7 @@ setup(
       author='Praveen J',
       author_email='praveen.josephmasilamani@outlook.com',
       license='MIT',
-      long_description=read('README'),
+      long_description=read('README.rst'),
       packages=['pref_timer'],
       keywords=['performance', 'testing', 'execution'],
       classifiers = [],
