@@ -14,7 +14,6 @@ First you need to clone the package or download the latest release.
 
 https://github.com/PraveenJP/pyPerformanceTimer.git
 cd 'path to the package'
-python setup.py sdist
 python setup.py install
 
 __PIP Installation__
