@@ -13,6 +13,6 @@ def timer(func):
         before = time.time()
         pref_func = func(*args,**kwargs)
         after = time.time()
-        print ("{} Taken: {:.1} Seconds".format(func.__name__, after-before))
+        print ("{} Taken: {:.2} Seconds".format(func.__name__, after-before))
         return pref_func
     return check_timer
