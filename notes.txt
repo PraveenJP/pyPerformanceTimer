@@ -1,0 +1,11 @@
+1. To Create the dist folder
+   python setup.py sdist
+
+2. To Manual Install
+   python setup.py install
+
+3. To upload in Pypi
+   python setup.py sdist upload -r pypi
+
+Reference Link:
+http://peterdowns.com/posts/first-time-with-pypi.html
