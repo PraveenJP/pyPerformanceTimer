@@ -6,7 +6,7 @@ def read(fname):
 
 setup(
       name='pref_timer',
-      version='0.1.4',
+      version='0.1.5',
       description='Used to find the function execution time',
       url='https://github.com/PraveenJP/pyPerformanceTimer',
       author='Praveen J',
