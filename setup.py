@@ -8,4 +8,5 @@ setup(name='py_performance_timer',
       author_email='praveen.josephmasilamani@outlook.com',
       license='MIT',
       packages=['pref_timer'],
+      keywords = ['performance', 'testing', 'execution'],
       zip_safe=False)
