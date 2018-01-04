@@ -2,3 +2,5 @@
 .idea/modules.xml
 .idea/pyPerformanceTimer.iml
 .idea/workspace.xml
+.idea/vcs.xml
+pref_timer/__pycache__/*
