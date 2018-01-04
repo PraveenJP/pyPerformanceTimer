@@ -6,13 +6,13 @@ def read(fname):
 
 setup(
       name='pref_timer',
-      version='0.1.5',
+      version='0.1.6',
       description='Used to find the function execution time',
       url='https://github.com/PraveenJP/pyPerformanceTimer',
       author='Praveen J',
       author_email='praveen.josephmasilamani@outlook.com',
       license='MIT',
-      long_description=read('README.rst'),
+      long_description=read('README'),
       packages=['pref_timer'],
       keywords=['performance', 'testing', 'execution'],
       classifiers = [],
