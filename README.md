@@ -20,7 +20,7 @@ python setup.py install
 __PIP Installation__
 
 ``` bash
-pip install py_performance_timer
+pip install pref_timer
 ```
 
 # Usage
@@ -49,7 +49,7 @@ Execution: 19998
 Execution: 19999
 main Taken: 0.3 Seconds
 ```
-It shows the funtionality name and time which is taken.
+It shows the functionality name and time which is taken.
 
 _If any suggestion or doubts please let me know via below email._
 
