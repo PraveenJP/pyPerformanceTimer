@@ -1,6 +1,7 @@
-from setuptools import setup
+from distutils.core import setup
 
-setup(name='py_performance_timer',
+setup(
+      name='pref_timer',
       version='0.1',
       description='Used to find the function execution time',
       url='https://github.com/PraveenJP/pyPerformanceTimer',
@@ -8,5 +9,6 @@ setup(name='py_performance_timer',
       author_email='praveen.josephmasilamani@outlook.com',
       license='MIT',
       packages=['pref_timer'],
-      keywords = ['performance', 'testing', 'execution'],
-      zip_safe=False)
+      keywords=['performance', 'testing', 'execution'],
+      classifiers = [],
+)
