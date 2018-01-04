@@ -7,3 +7,4 @@ build/*
 dist/*
 py_performance_timer.egg-info/*
 pref_timer/__pycache__/*
+.pypirc
