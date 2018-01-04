@@ -2,7 +2,7 @@
 Functionality Performance Timer
 
 # Introduction
-The `pyPerformanceTime` is used to find the function execution time. So it will use which function takes more time when execute and helps to find out the performance issue. So this is beginning and the more updated coming soon.
+The `pyPerformanceTimer` is used to find the function execution time. So it will use which function takes more time when execute and helps to find out the performance issue. So this is beginning and the more updated coming soon.
 
 # Installation
 It's very simple install and use, I will show two types of installation manual and PIP installation.
